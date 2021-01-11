@@ -1,0 +1,12 @@
+#lowerBody {
+  background-color: #F1F6FC;
+  font-size: 20px;
+  font-weight: 300;
+  color: #2D3236;
+}
+#lowerBody h1 {
+  font-size: 40px;
+}
+#lowerBody #lowerBody-content p, #lowerBody #lowerBody-content i {
+  color: #808080;
+}

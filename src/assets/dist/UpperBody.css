@@ -1,0 +1,32 @@
+#upperBody {
+  background-color: #215398;
+  font-size: 20px;
+  font-weight: 300;
+}
+#upperBody #slider {
+  color: #2D3236;
+}
+#upperBody #slider h1 {
+  font-size: 40px;
+}
+#upperBody #slider p, #upperBody #slider i {
+  color: #808080;
+}
+#upperBody .owl-prev {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -1rem;
+}
+#upperBody .owl-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: -1rem;
+}
+#upperBody .owl-stage {
+  display: flex;
+}
+#upperBody .owl-item {
+  display: flex;
+}
